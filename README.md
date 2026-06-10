@@ -71,7 +71,7 @@ I am a third-year CSE student at Bennett University with a **CGPA of 8.52/10**, 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=aarushixsingh&hide_border=true&background=ffffff&ring=2d6a4f&fire=52b788&currStreakLabel=2d6a4f&sideLabels=40916c&dates=555555&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=aarushixsingh&hide_border=true&background=ffffff&ring=2d6a4f&fire=52b788&currStreakLabel=2d6a4f&sideLabels=40916c&dates=555555&cache_seconds=1800" height="165"/>
 
 <br/><br/>
 
@@ -85,7 +85,7 @@ I am a third-year CSE student at Bennett University with a **CGPA of 8.52/10**, 
 
 - 🥇 **Smart India Hackathon 2025** — National-level submission, Government of India
 - 🔬 **Research Paper in Progress** — Hinglish Hate Speech Detection (HingRoBERTa + LoRA)
-- 🎓 **CGPA 8.52 / 10** — 
+- 🎓 **CGPA 8.52 / 10**
 - 🤖 **Content Creator** — Robotics & Automation Club (2024–2025)
 
 ---
