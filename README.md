@@ -115,19 +115,7 @@ class Aarushi:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aarushixsingh&show_icons=true&theme=merko&hide_border=true&bg_color=f0faf0&title_color=2d6a4f&icon_color=40916c&text_color=1b4332&rank_icon=github&cache_seconds=1800" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushixsingh&layout=compact&theme=merko&hide_border=true&bg_color=f0faf0&title_color=2d6a4f&text_color=1b4332&cache_seconds=1800" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aarushixsingh&theme=merko&hide_border=true&background=f0faf0&ring=2d6a4f&fire=52b788&currStreakLabel=2d6a4f&cache_seconds=1800" height="165"/>
-
-</div>
 
 ---
 
