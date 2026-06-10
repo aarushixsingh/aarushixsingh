@@ -117,6 +117,8 @@ class Aarushi:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aarushixsingh&show_icons=true&theme=merko&hide_border=true&bg_color=f0faf0&title_color=2d6a4f&icon_color=40916c&text_color=1b4332&rank_icon=github&cache_seconds=1800" height="165"/>
