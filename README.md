@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,50:2d6a4f,100:52b788&height=180&section=header&text=Aarushi%20Singh&fontSize=55&fontColor=d8f3dc&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20NLP%20%26%20Deep%20Learning&descSize=18&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1b4332,50:2d6a4f,100:52b788&amp;height=180&amp;section=header&amp;text=Aarushi%20Singh&amp;fontSize=55&amp;fontColor=d8f3dc&amp;fontAlignY=38&amp;desc=AI%2FML%20Engineer%20%7C%20NLP%20%26%20Deep%20Learning&amp;descSize=18&amp;descAlignY=58&amp;animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=52B788&background=FFFFFF00&center=true&vCenter=true&width=640&lines=Looking+for+AI%2FML+Engineering+Internships;Fine-tuning+Transformers+with+LoRA;Building+End-to-End+ML+Systems;Open+to+Collaboration+on+NLP+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=52B788&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Building+End-to-End+AI%2FML+Systems;Fine-tuning+Transformers+with+LoRA;Designing+Tech+for+People+%26+Planet;Deploying+Models+That+Ship" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,13 +19,9 @@
 
 ### 👋 About me
 
-B.Tech CSE student at Bennett University (2023–2027), CGPA 8.52/10, focused on **NLP and parameter-efficient transformer fine-tuning**. Currently looking for an **AI/ML Engineering internship** where I can work on applied deep learning, model deployment, or NLP research.
+B.Tech CSE student at Bennett University (2023–2027), CGPA 8.52/10, focused on **NLP and parameter-efficient transformer fine-tuning**. I build end-to-end AI/ML systems — from model training to deployment — and care about making technology that's genuinely useful to people and considerate of the environment it runs in, not just impressive on a leaderboard.
 
-**Frameworks & Libraries**: TensorFlow Keras, PyTorch, scikit-learn, XGBoost, Hugging Face Transformers, PEFT, NumPy, Pandas, 
-Matplotlib, FastAPI, Pydantic, Joblib, SHAP, NLTK, SpaCy
-**AI/ML Domains**: Machine Learning, Deep Learning, NLP, Computer Vision, Explainable AI (XAI), Parameter-Efficient Fine-Tuning, 
-Supervised/Unsupervised Learning
-**Tools & Platforms**: GitHub, Jupyter Notebook, VS Code, Google Colab, Kaggle, Vercel, Rende
+**Core stack:** Python · PyTorch · HuggingFace Transformers · LoRA / PEFT · FastAPI · scikit-learn · TensorFlow/Keras
 
 ---
 
@@ -92,8 +88,16 @@ Supervised/Unsupervised Learning
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aarushixsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushixsingh&hide_border=true&background=00000000" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aarushixsingh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushixsingh&amp;theme=tokyonight&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;bg_color=00000000" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushixsingh&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarushixsingh&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=00000000&amp;line=52b788&amp;color=d8f3dc&amp;custom_title=Contribution+Graph" width="100%" />
 </div>
 
 ---
@@ -103,5 +107,5 @@ Supervised/Unsupervised Learning
 I photograph small details in nature and write about mental/physical balance on my [wellness blog](https://serenitystarline.blogspot.com) — a calm mind builds sharper models.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,50:2d6a4f,100:1b4332&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:52b788,50:2d6a4f,100:1b4332&amp;height=100&amp;section=footer&amp;animation=twinkling" />
 </div>
