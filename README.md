@@ -85,22 +85,7 @@ B.Tech CSE student at Bennett University (2023–2027), CGPA 8.52/10, focused on
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aarushixsingh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushixsingh&amp;theme=tokyonight&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;bg_color=00000000" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushixsingh&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarushixsingh&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=00000000&amp;line=52b788&amp;color=d8f3dc&amp;custom_title=Contribution+Graph" width="100%" />
-</div>
-
----
 
 ### 🌿 Beyond the code
 
