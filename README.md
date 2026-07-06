@@ -1,8 +1,6 @@
 
 # Aarushi Singh
 
-> Premium GitHub README (starter)
-
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,27,30&text=Aarushi%20Singh&fontColor=ffffff&fontSize=60"/>
 </p>
