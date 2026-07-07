@@ -84,6 +84,33 @@ NLP · Transformer Fine-tuning · LoRA · HingRoBERTa · MuRIL — In Progress, 
 ![Colab](https://img.shields.io/badge/Colab-2d6a4f?style=for-the-badge&logo=google-colab&logoColor=d8f3dc)
 
 ---
+<!-- ========================= GitHub Stats ========================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aarushixsingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarushixsingh&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushixsingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushixsingh&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aarushixsingh&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=aarushixsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aarushixsingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<!-- =============================================================== -->
 
 ### 🏆 Achievements
 
